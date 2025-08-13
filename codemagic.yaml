@@ -11,6 +11,7 @@ workflows:
         script: |
           if [ ! -d "android" ]; then
             flutter create --platforms=android .
+          fi
       - name: Pub get
         script: flutter pub get
       - name: Build release APK
