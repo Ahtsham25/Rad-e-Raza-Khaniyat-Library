@@ -1,0 +1,13 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+pubspec.lock
+build/
+.android/
+.ios/
+.macos/
+windows/
+linux/
+web/
+.idea/
+.vscode/
