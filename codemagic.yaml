@@ -7,6 +7,10 @@ workflows:
     scripts:
       - name: Flutter version
         script: flutter --version
+      - name: Remove Shorebird dependency
+        script: |
+          sed -i '/shorebird_flutter/d' pubspec.yaml
+          flutter pub get
       - name: Create Android project if missing
         script: |
           if [ ! -d "android" ]; then
