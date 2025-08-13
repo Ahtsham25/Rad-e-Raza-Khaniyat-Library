@@ -1,0 +1,25 @@
+{
+  "عقائد": {
+    "علم غیب": [
+      { "title": "علمِ غیب اور حقیقت", "author": "مصنف", "url": "https://archive.org/download/example1.pdf" }
+    ],
+    "حاضر و ناظر": [
+      { "title": "حاضر و ناظر کا مسئلہ", "author": "محقق", "url": "https://archive.org/download/example2.pdf" }
+    ],
+    "مختار کل": [
+      { "title": "مختارِ کل سے متعلق بحث", "author": "قلم", "url": "https://archive.org/download/example3.pdf" }
+    ],
+    "نور و بشر": [
+      { "title": "نور و بشر پر گفتگو", "author": "ادیب", "url": "https://archive.org/download/example4.pdf" }
+    ],
+    "استعانت لغیر اللہ": [
+      { "title": "غیر اللہ سے استعانت کا موقف", "author": "مصنف", "url": "https://archive.org/download/example5.pdf" }
+    ]
+  },
+  "اہل سنت پر اعتراضات کے جوابات": [
+    { "title": "اہل سنت پر جوابات - جلد 1", "author": "ادارہ", "url": "https://archive.org/download/example6.pdf" }
+  ],
+  "بریلویت کے رد میں کتب": [
+    { "title": "بریلویت کے رد کا مجموعہ", "author": "ادارہ", "url": "https://archive.org/download/example7.pdf" }
+  ]
+}
